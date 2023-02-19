@@ -1,5 +1,5 @@
 export const env = {
-  api: "http://localhost:14455",
+  api: "https://galaxy-chat-backend.onrender.com/",
 };
 
 
