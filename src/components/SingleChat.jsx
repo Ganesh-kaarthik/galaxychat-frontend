@@ -17,7 +17,7 @@ import axios from "axios";
 import ScrollableChat from "./ScrollableChat.jsx";
 import io from "socket.io-client";
 
-const ENDPOINT = "http://localhost:14455";
+const ENDPOINT = "https://galaxy-chat-backend.onrender.com/";
 
 var socket, selectedChatCompare;
 
